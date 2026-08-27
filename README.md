@@ -41,7 +41,7 @@ The test suite loads only the controller builders and `evaluate` functions from 
 - [Milestone 1](https://github.com/jaimins2002-netizen/autonomous-green-hydrogen-power-plant-controller-milestone-1)
 - [Milestone 2](https://github.com/jaimins2002-netizen/autonomous-green-hydrogen-power-plant-controller-milestone-2)
 - [Milestone 3](https://github.com/jaimins2002-netizen/autonomous-green-hydrogen-power-plant-controller-milestone-3)
-- [Project website](https://jaimins2002-netizen.github.io/)
+- [Project website]([https://jaimins2002-netizen.github.io/](https://jaimins2002-netizen.github.io/Autonomous_Green_Hydrogen_Controller_Web.ghithub.io/))
 
 ## Safety Disclaimer
 
