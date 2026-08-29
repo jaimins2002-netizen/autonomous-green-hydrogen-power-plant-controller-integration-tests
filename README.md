@@ -1,8 +1,7 @@
 ## Project Website
 
-[Autonomous Green Hydrogen Power Plant Controller](https://jaimins2002-netizen.github.io/)
+[Autonomous Green Hydrogen Power Plant Controller](https://jaimins2002-netizen.github.io/Autonomous_Green_Hydrogen_Controller_Web.ghithub.io/)
 
-[Milestone 2 Project Page](https://jaimins2002-netizen.github.io/milestone2/)
 
 # Autonomous Green Hydrogen Controller — Master Integration Tests
 
